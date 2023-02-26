@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/notesarena/static/css/main.65cfcbaf.css",
-    "main.js": "/notesarena/static/js/main.36fcba6b.js",
+    "main.js": "/notesarena/static/js/main.3c37ff18.js",
     "static/media/bg.jpeg": "/notesarena/static/media/bg.6b44f45a295b66712c02.jpeg",
     "index.html": "/notesarena/index.html",
     "main.65cfcbaf.css.map": "/notesarena/static/css/main.65cfcbaf.css.map",
-    "main.36fcba6b.js.map": "/notesarena/static/js/main.36fcba6b.js.map"
+    "main.3c37ff18.js.map": "/notesarena/static/js/main.3c37ff18.js.map"
   },
   "entrypoints": [
     "static/css/main.65cfcbaf.css",
-    "static/js/main.36fcba6b.js"
+    "static/js/main.3c37ff18.js"
   ]
 }
