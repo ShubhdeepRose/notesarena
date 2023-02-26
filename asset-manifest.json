@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/notesarena/static/css/main.65cfcbaf.css",
+    "main.js": "/notesarena/static/js/main.b387825c.js",
+    "static/media/bg.jpeg": "/notesarena/static/media/bg.6b44f45a295b66712c02.jpeg",
+    "index.html": "/notesarena/index.html",
+    "main.65cfcbaf.css.map": "/notesarena/static/css/main.65cfcbaf.css.map",
+    "main.b387825c.js.map": "/notesarena/static/js/main.b387825c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65cfcbaf.css",
+    "static/js/main.b387825c.js"
+  ]
+}
